@@ -17,9 +17,54 @@ Problems will be graded with the following marks:
 *   Check = 8/10: Your solution was essentially correct but contained minor errors or omissions.
 *   Check plus = 10/10: (We think) you got it.
 
-| ASSIGNMENTS | SAMPLE SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps1) | [Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps1-solutions) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps2) | [Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps2-solutions) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps3) | [Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps3-solutions) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps4) | [Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps4-solutions)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps1-solutions)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps2-solutions)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps3-solutions)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit6_890f14_ps4-solutions)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
