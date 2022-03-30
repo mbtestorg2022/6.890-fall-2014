@@ -35,7 +35,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   _[6.046 Design and Analysis of Algorithms](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)_ or equivalent background in discrete mathematics and algorithms
+*   _[6.046 Design and Analysis of Algorithms](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015)_ or equivalent background in discrete mathematics and algorithms
 *   Alternatively, permission from the instructor
 *   No background in computational complexity required; all needed notations defined in class
 
