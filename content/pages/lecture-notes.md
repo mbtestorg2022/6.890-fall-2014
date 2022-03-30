@@ -25,7 +25,7 @@ SCRIBE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction (PDF - 6.7MB)]({{< baseurl >}}/resources/mit6_890f14_l01)
+[Introduction (PDF - 6.7MB)]({{< baseurl >}}/resources/mit6_890f14_l01)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 1 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec1)
@@ -37,7 +37,7 @@ SCRIBE NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3-partition I (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_890f14_l02)
+[3-partition I (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_890f14_l02)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 2 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec2)
@@ -49,7 +49,7 @@ SCRIBE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3-partition II, 2–partition (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_890f14_l03)
+[3-partition II, 2–partition (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_890f14_l03)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec3)
@@ -61,7 +61,7 @@ SCRIBE NOTES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[SAT (Satisfiability) (PDF - 4.7MB)]({{< baseurl >}}/resources/mit6_890f14_l04)
+[SAT (Satisfiability) (PDF - 4.7MB)]({{< baseurl >}}/resources/mit6_890f14_l04)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 4 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec4)
@@ -73,7 +73,7 @@ SCRIBE NOTES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[SAT Reductions (PDF - 3.6MB)]({{< baseurl >}}/resources/mit6_890f14_l05)
+[SAT Reductions (PDF - 3.6MB)]({{< baseurl >}}/resources/mit6_890f14_l05)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_890f14_lec5)
@@ -85,7 +85,7 @@ SCRIBE NOTES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Circuit SAT (PDF - 3.4MB)]({{< baseurl >}}/resources/mit6_890f14_l06)
+[Circuit SAT (PDF - 3.4MB)]({{< baseurl >}}/resources/mit6_890f14_l06)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 6 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec6)
@@ -97,7 +97,7 @@ SCRIBE NOTES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Planar SAT (PDF - 3.9MB)]({{< baseurl >}}/resources/mit6_890f14_l07)
+[Planar SAT (PDF - 3.9MB)]({{< baseurl >}}/resources/mit6_890f14_l07)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 7 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec7)
@@ -109,7 +109,7 @@ SCRIBE NOTES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hamiltonicity (PDF - 5.1MB)]({{< baseurl >}}/resources/mit6_890f14_l08)
+[Hamiltonicity (PDF - 5.1MB)]({{< baseurl >}}/resources/mit6_890f14_l08)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 8 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_890f14_lec8)
@@ -121,7 +121,7 @@ SCRIBE NOTES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Graph Problems (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_890f14_l09)
+[Graph Problems (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_890f14_l09)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 9 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_890f14_lec9)
@@ -133,7 +133,7 @@ SCRIBE NOTES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Inapproximability Introduction (PDF - 7.4MB)]({{< baseurl >}}/resources/mit6_890f14_l10)
+[Inapproximability Introduction (PDF - 7.4MB)]({{< baseurl >}}/resources/mit6_890f14_l10)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 10 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec10)
@@ -145,7 +145,7 @@ SCRIBE NOTES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Inapproximability Examples (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_890f14_l11)
+[Inapproximability Examples (PDF - 6.5MB)]({{< baseurl >}}/resources/mit6_890f14_l11)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 11 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec11)
@@ -157,7 +157,7 @@ SCRIBE NOTES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gap Inapproximability (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_890f14_l12)
+[Gap Inapproximability (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_890f14_l12)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 12 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec12)
@@ -169,7 +169,7 @@ SCRIBE NOTES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Parameterized Complexity I: W Hierarchy (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_890f14_l13)
+[Parameterized Complexity I: W Hierarchy (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_890f14_l13)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 13 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec13)
@@ -181,7 +181,7 @@ SCRIBE NOTES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Parameterized Complexity II: ETH & Planar (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_890f14_l14)
+[Parameterized Complexity II: ETH & Planar (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_890f14_l14)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 14 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec14)
@@ -193,7 +193,7 @@ SCRIBE NOTES
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[P and ASP (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_890f14_l15)
+[P and ASP (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_890f14_l15)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 15 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec15)
@@ -205,7 +205,7 @@ SCRIBE NOTES
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[NP & PSPACE Video Games (PDF - 3.3MB)]({{< baseurl >}}/resources/mit6_890f14_l16)
+[NP & PSPACE Video Games (PDF - 3.3MB)]({{< baseurl >}}/resources/mit6_890f14_l16)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 16 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec16)
@@ -217,7 +217,7 @@ SCRIBE NOTES
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nondeterministic Constraint Logic (PDF - 6.4MB)]({{< baseurl >}}/resources/mit6_890f14_l17)
+[Nondeterministic Constraint Logic (PDF - 6.4MB)]({{< baseurl >}}/resources/mit6_890f14_l17)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 17 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec17)
@@ -229,7 +229,7 @@ SCRIBE NOTES
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[0- and 2–player Games (PDF - 5.9MB)]({{< baseurl >}}/resources/mit6_890f14_l18)
+[0- and 2–player Games (PDF - 5.9MB)]({{< baseurl >}}/resources/mit6_890f14_l18)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 18 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec18)
@@ -241,7 +241,7 @@ SCRIBE NOTES
 19
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[More Games (PDF - 6.9MB)]({{< baseurl >}}/resources/mit6_890f14_l19)
+[More Games (PDF - 6.9MB)]({{< baseurl >}}/resources/mit6_890f14_l19)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 19 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec19)
@@ -253,7 +253,7 @@ SCRIBE NOTES
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Undecidability & P-completeness (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_890f14_l20)
+[Undecidability & P-completeness (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_890f14_l20)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 20 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec20)
@@ -265,7 +265,7 @@ SCRIBE NOTES
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3SUM & APSP (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_890f14_l21)
+[3SUM & APSP (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_890f14_l21)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 21 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec21)
@@ -277,7 +277,7 @@ SCRIBE NOTES
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PPAD (guest lecture by Constantinos Daskalakis) (PDF - 9.2MB)]({{< baseurl >}}/resources/mit6_890f14_l22)
+[PPAD (guest lecture by Constantinos Daskalakis) (PDF - 9.2MB)]({{< baseurl >}}/resources/mit6_890f14_l22)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 22 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec22)
@@ -289,7 +289,7 @@ SCRIBE NOTES
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PPAD Reductions (guest lecture by Constantinos Daskalakis) (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_890f14_l23)
+[PPAD Reductions (guest lecture by Constantinos Daskalakis) (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_890f14_l23)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 23 (PDF)]({{< baseurl >}}/resources/mit6_890f14_lec23)

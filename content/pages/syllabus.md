@@ -96,6 +96,6 @@ There is no textbook for this class, but there are two recommended books, one bo
 *   Williamson, David P., and David Bernard Shmoys. _The Design of Approximation Algorithms_. Cambridge University Press, 2011. ISBN: 9780521195270. \[Preview with [Google Books](http://books.google.com/books?id=Cc_Fdqf3bBgC&pg=PAfrontcover)\]  
     *   Chapter 16 is about inapproximability.
     *   [Draft available for free download](http://www.designofapproxalgs.com/download.php)
-*   Greenlaw, Raymond, H. James Hoover, and Walter Ruzzo. _Limits to Parallel Computation P-completeness Theory_. Oxford University Press, 1995. ISBN: 9780195085914. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Available for free download here (PDF - 1.1MB)](http://homes.cs.washington.edu/~ruzzo/papers/limits.pdf).
+*   Greenlaw, Raymond, H. James Hoover, and Walter Ruzzo. _Limits to Parallel Computation P-completeness Theory_. Oxford University Press, 1995. ISBN: 9780195085914. [Available for free download here (PDF - 1.1MB)](http://homes.cs.washington.edu/~ruzzo/papers/limits.pdf).
 *   [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 *   [A compendium of NP optimization problems](http://www.nada.kth.se/~viggo/problemlist/compendium.html)
